@@ -2,7 +2,7 @@
     <v-app>
         <v-app-bar
                 app
-                color="#ff928f"
+                color="#8ffff6"
                 dark
                 shrink-on-scroll
                 prominent
